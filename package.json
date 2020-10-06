@@ -1,13 +1,9 @@
 {
-  "name": "@agoratestapp",
+  "name": "agoratestapp",
   "version": "0.0.1",
   "main": "index.js",
   "author": "Fernando <f.lopez@novafutur.com>",
   "private": true,
-  "engines": {
-    "node": ">=14.9.0",
-    "npm": ">=6.10.0"
-  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
